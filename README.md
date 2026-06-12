@@ -16,12 +16,13 @@
 
 ---
 
-## 🖥️ Interactive Research Deliverables
-> **Hiring Managers & Reviewers:** You can access and interact with the production slide deck built for this project directly in your web browser without downloading any files.
+## 🖥️ Live Interactive Research Presentation
+> **Hiring Managers, Economists, & Reviewers:** The comprehensive empirical slide deck for this research study has been compiled into a production front-end interface and deployed live via Netlify. Click the interactive launch button below to view the slides directly inside your browser without downloading any files.
 >
-> 🌐 **[Click Here to Launch the Live Interactive Slide Presentation](https://dchatterjee01-prog.github.io/nifty50-econometrics-volatility-dynamics/presentation/)**
+> ### 🌐 [🚀 LAUNCH INTERACTIVE VOLATILITY SLIDES](https://agent-6a2bbd52da8dcb--astonishing-taiyaki-9e6ac4.netlify.app/)
 
 ---
+
 ## 📈 Introduction & Research Motivation
 Traditional asset valuation frameworks frequently evaluate risk under assumptions of normal distribution structures and constant variance patterns over time. However, real-world financial time-series observations consistently demonstrate asymmetric deviations, fat tails (leptokurtosis), and periods of variance clustering. 
 
