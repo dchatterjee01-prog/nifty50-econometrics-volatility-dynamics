@@ -13,8 +13,15 @@
 * **Academic Credentials:** M.Sc. Economics (Specialization: Quantitative Financial Econometrics & Time-Series Modeling)
 * **GitHub Profile:** [@dchatterjee01-prog](https://github.com/dchatterjee01-prog)
 
+
 ---
 
+## 🖥️ Interactive Research Deliverables
+> **Hiring Managers & Reviewers:** You can access and interact with the production slide deck built for this project directly in your web browser without downloading any files.
+>
+> 🌐 **[Click Here to Launch the Live Interactive Slide Presentation](https://dchatterjee01-prog.github.io/nifty50-econometrics-volatility-dynamics/presentation/)**
+
+---
 ## 📈 Introduction & Research Motivation
 Traditional asset valuation frameworks frequently evaluate risk under assumptions of normal distribution structures and constant variance patterns over time. However, real-world financial time-series observations consistently demonstrate asymmetric deviations, fat tails (leptokurtosis), and periods of variance clustering. 
 
