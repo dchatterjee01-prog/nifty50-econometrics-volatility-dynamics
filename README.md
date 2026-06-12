@@ -79,7 +79,8 @@ $$\sigma_t^2 = \omega + \alpha \varepsilon_{t-1}^2 + \beta \sigma_{t-1}^2$$
 ### 6. Quantitative Risk Analysis Techniques
 * **Value-at-Risk (VaR):** Implements parametric $\text{GARCH}(1,1)$ distribution models paired with non-parametric historical simulation curves at a 95% and 99% confidence interval.
 * **Maximum Drawdown (MDD):** Traces peak-to-trough capital erosions across rolling micro-cycles to evaluate maximum historical stress scenarios.
-$$\text{MDD}_t = \frac{P_t - \max_{\tau \le t}(P_\tau)}{\max_{\tau \le t}(P_\tau)}$$
+
+$$\text{MDD}_t = \frac{P_t - \max_{\tau \le t} (P_\tau)}{\max_{\tau \le t} (P_\tau)}$$
 
 ---
 
