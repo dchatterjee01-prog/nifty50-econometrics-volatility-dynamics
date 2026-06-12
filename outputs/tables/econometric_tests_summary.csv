@@ -1,0 +1,11 @@
+Test,Value
+ADF_Price_Statistic,-1.732166760063278
+ADF_Price_pvalue,0.4146200137777265
+ADF_Returns_Statistic,-13.323395236135443
+ADF_Returns_pvalue,6.391933270449449e-25
+JarqueBera_Statistic,1198.1548181874507
+JarqueBera_pvalue,6.667868060469501e-261
+LjungBox_Returns_Statistic,22.189475836135014
+LjungBox_Returns_pvalue,0.014167907341553692
+LjungBox_SquaredReturns_Statistic,120.3063091680924
+LjungBox_SquaredReturns_pvalue,4.3852341251958195e-21
